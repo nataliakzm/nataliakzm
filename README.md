@@ -4,7 +4,7 @@ I'm **Lanaguge Engineer** who is passionate about new technologies such us **Dev
 
 Feel free to contact me if you have any suggestions or questions.
 
-### 📝 - Articles & Repositories
+### 📝 - Articles & Repositories ([Click Here](https://github.com/nataliakzm/articles_list/blob/main/README.md))
 
 ### 🔧 - Technologies & Tools
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
