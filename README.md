@@ -4,6 +4,8 @@ I'm **Lanaguge Engineer** who is passionate about new technologies such us **Dev
 
 Feel free to contact me if you have any suggestions or questions.
 
+### 🔧 - Articles & Repositories
+
 ### 🔧 - Technologies & Tools
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=0366d6)
@@ -17,7 +19,7 @@ Feel free to contact me if you have any suggestions or questions.
 
 
 ### 📈 - GitHub Stats
-<img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakzm&theme=graywhite&hide=css,tsql" /> <img align="center" height="210"  src="https://github-readme-stats.vercel.app/api?username=nataliakzm&theme=vue&show_icons=true" /> 
+<img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakzm&theme=graywhite&hide=css,tsql" /> 
 
 Made with :heart:
 
