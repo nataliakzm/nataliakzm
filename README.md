@@ -8,7 +8,7 @@ Feel free to contact me if you have any suggestions or questions.
 
 ### 💻 - Side Projects
 
-- - [Stanford School of Engineering]()
+- - [Stanford School of Engineering - AI Program](https://github.com/nataliakzm/Stanford_AI_Program)
 - - [School 42 Piscine Projects](https://github.com/nataliakzm/School42_Piscine)
 - - [School 42 Programming Projects](https://github.com/nataliakzm/School42_Cursus)
 
