@@ -6,6 +6,12 @@ Feel free to contact me if you have any suggestions or questions.
 
 ### 📝 - Articles & Repositories ([Click Here](https://github.com/nataliakzm/articles_list/blob/main/README.md))
 
+### 💻 - Side Projects
+
+- - [Stanford School of Engineering]()
+- - [School 42 Piscine Projects](https://github.com/nataliakzm/School42_Piscine)
+- - [School 42 Programming Projects](https://github.com/nataliakzm/School42_Cursus)
+
 ### 🔧 - Technologies & Tools
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=0366d6)
