@@ -23,9 +23,7 @@ Feel free to contact me if you have any suggestions or questions.
 ![](https://img.shields.io/badge/Library-Transformers-informational?style=flat&logo=transformers&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Library-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=0366d6)
 
-
-### 📈 - GitHub Stats
-<img align="center" height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakzm&theme=graywhite&hide=css,tsql" /> 
+<img align="center" height="210" src="https://user-images.githubusercontent.com/45148177/233116279-55ec9905-3b4b-4342-bee4-ed0afd1e1a91.svg" /> <img align="center" height="210" src="https://user-images.githubusercontent.com/45148177/233115582-05eb256f-a4a9-41ed-ab9c-2b2579606aec.svg" /> <img align="center" height="210" src="https://user-images.githubusercontent.com/45148177/233117126-7c9ebeb9-35fb-45a3-9975-e439ab844617.svg" />
 
 Made with :heart:
 
