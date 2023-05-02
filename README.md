@@ -1,6 +1,6 @@
 # Ciao, I'm Natalia Kuzminykh 🖖🏻 👩🏽‍💻
 
-I'm **Lanaguge Engineer** who is passionate about new technologies such us **MLOps**, **Conversational AI**, and **NLP**. I am currently working as a Conversational AI Engineer at QuestIT.
+I'm **Lanaguge Engineer** who is passionate about new technologies such as **MLOps**, **Conversational AI**, and **NLP**. I am currently working as a Conversational AI Engineer at QuestIT.
 
 Feel free to contact me if you have any suggestions or questions.
 
