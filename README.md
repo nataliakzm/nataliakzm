@@ -2,12 +2,13 @@
 
 I'm **Lanaguge Engineer** who is passionate about new technologies such as **MLOps**, **Conversational AI**, and **NLP**. I am currently working as a Conversational AI Engineer at QuestIT.
 
-Feel free to contact me if you have any suggestions or questions.
+Feel free to contact me for any suggestions, inquiries or just for a tech-related chit-chat.
 
 ### 📝 - Articles & Repositories ([Click Here](https://github.com/nataliakzm/articles_list/blob/main/README.md))
+Take a look at my articles and repositories for deep dives into topics I'm passionate about.
 
 ### 💻 - Side Projects
-
+Here are some projects I've been working on outside of my regular work:
 - - [Stanford School of Engineering - AI Program](https://github.com/nataliakzm/Stanford_AI_Program)
 - - [School 42 Piscine Projects](https://github.com/nataliakzm/School42_Piscine)
 - - [School 42 Programming Projects](https://github.com/nataliakzm/School42_Cursus)
