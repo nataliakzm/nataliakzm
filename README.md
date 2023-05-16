@@ -27,6 +27,7 @@ Here are some projects I've been working on outside of my regular work:
 [<img align="center" height="170" src="https://user-images.githubusercontent.com/45148177/233116279-55ec9905-3b4b-4342-bee4-ed0afd1e1a91.svg" />](https://digitalcredential.stanford.edu/check/6352487C55D3602114A81691DAA3D51BF03BCF6F98F5D3DFE956B2460B03BC18Mk1TbHVudGlydG85cUJOWkw5ckFMVUdJbXZjWWRtdjVYODYvY0VPK3ZmdWw0OVdH) [<img align="center" height="170" src="https://user-images.githubusercontent.com/45148177/233115582-05eb256f-a4a9-41ed-ab9c-2b2579606aec.svg" />](https://digitalcredential.stanford.edu/check/4918E6CDACC9A8CAB049C3B9E0BB4CBF0A9ABAC402DFC1CB1A6B9EDBEE71CC09eXFqOXhEMGdYd0dRQ0xvdlhra3lEc1RkUE8rQkMzQ21kdG5DUDJKWHhBeEtsL1dG) [<img align="center" height="170" src="https://user-images.githubusercontent.com/45148177/233117126-7c9ebeb9-35fb-45a3-9975-e439ab844617.svg" />](https://digitalcredential.stanford.edu/check/823C6C93BB0E1B33489BD31C4E21D993F9854AF4DFAAC8132C9F4C8EE2216236Z24wdnlxZENtZGdvNDdOM00vdUprOHpoYzFSQ0hxV3c5SktXOFhRVTUvdUhlRThG)
 
 Made with :heart:
+![Profile Views Counter](https://komarev.com/ghpvc/?username=nataliakzm&color=lightgrey&style=flat-square)
 
 <p>
 <a href="https://www.linkedin.com/in/natalia-kuzminykh94/">
