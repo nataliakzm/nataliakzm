@@ -4,8 +4,8 @@ I'm **Language Engineer** who is passionate about new technologies such as **MLO
 
 Feel free to contact me for any suggestions, inquiries or just for a tech-related chit-chat.
 
-### 📝 - Articles & Repositories ([Click Here](https://github.com/nataliakzm/articles_list/blob/main/README.md))
-Take a look at my articles and repositories for deep dives into topics I'm passionate about.
+### 📝 - Articles ([Click Here](https://github.com/nataliakzm/articles_list/blob/main/README.md))
+Take a look at my articlesn for deep dives into topics I'm passionate about.
 
 ### 💻 - Side Projects
 Here are some projects I've been working on outside of my regular work:
