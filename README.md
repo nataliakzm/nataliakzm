@@ -1,6 +1,6 @@
 # Ciao, I'm Natalia Kuzminykh 🖖🏻 👩🏽‍💻
 
-I'm an**AI Engineer** who is passionate about new technologies such as **MLOps**, **Conversational AI**, and **NLP** development. 
+I'm an **AI Engineer** who is passionate about new technologies such as **MLOps**, **Conversational AI**, and **NLP** development. 
 
 Feel free to contact me for any suggestions, inquiries or just for a tech-related chit-chat.
 
