@@ -1,6 +1,7 @@
 # Ciao, I'm Natalia Kuzminykh 🖖🏻 👩🏽‍💻
 
-I'm an **AI Engineer** who is passionate about new technologies such as **MLOps**, **Conversational AI**, and **NLP** development. 
+I'm an **AI Engineer** who is passionate about new technologies such as **LLMs**, **Generative AI**, and **NLP** development. 
+My professional journey has seen me deeply engaged in the full spectrum of LLM model development, from initial training to fine-tuning. Furthermore, I worked on implementation LLM guidance through frameworks like Langchain, Llamaindex, and Guardrails. My expertise extends also to integrating diverse Vector databases, handling of low-level API systems and leveraging the Retrieval Augmented Generation approach among other techniques.  
 
 Feel free to contact me for any suggestions, inquiries or just for a tech-related chit-chat.
 
