@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Passion-AI%20Innovation-0366d6?style=for-the-badge" />
 </p>
 
-<br>
 
 ### 👩🏽‍💻 About Me
 
